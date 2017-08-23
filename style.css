@@ -1,0 +1,8 @@
+html, body {
+    height: 100%;
+}
+#add_new {
+    position: absolute;
+    right: 5%;
+    bottom: 5%;
+}
